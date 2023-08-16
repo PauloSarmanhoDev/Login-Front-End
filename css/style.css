@@ -28,6 +28,7 @@ main{
     border-radius: 20px;
     align-self: center;
     align-items: center;
+    box-shadow: 10px;
 }
 
 h1{
@@ -58,6 +59,7 @@ input{
     background-color: rgb(230, 230, 230);
     border-radius: 50px;
     border-style: hidden;
+    box-shadow: 10px;
 }
 
 button{
